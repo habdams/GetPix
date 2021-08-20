@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# GetPix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple search application for images making se of the Unsplash API
+
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
